@@ -24,7 +24,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 - Full-stack web developer focused on building scalable web platforms and intelligent systems.
-- Turning ideas into production-ready systems - AI-powered platforms, scalable web apps, and data-driven products built for real-world use.
+- Turning ideas into production-ready systems - AI-powered platforms and data-driven products built for real-world use.
 
 ---
 
@@ -33,7 +33,7 @@
 
 > [AR House Design Web App](https://github.com/SA0806/practice_IITISOC) - Full-stack AR interior visualization platform supporting real-time 3D furniture placement, E-Commerce integration, and secure payments.
 
-> [CleanCity AI Detection System](https://github.com/SA0806/Garbage-Detection-AI-Lorem-Ipsum-) - AI system for garbage overflow detection using image classification, geo-tagging, and real-time hotspot mapping.
+> [CleanCity AI Detection System](https://github.com/SA0806/Garbage-Detection-AI-Lorem-Ipsum-) - AI-powered system for garbage overflow detection using image classification, geo-tagging, and real-time hotspot mapping.
 
 > [Yearbook Portal IIT Indore](https://github.com/IITIYearbookPortal/YearBook-Portal-2024-25) - IIT Indore's Full-stack web platform for managing, recording and showcasing student profiles, batch memories and achievements digitally.
 
