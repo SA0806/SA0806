@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sahiba Joshi</h1>
+<h1 align="center">Hi there, I'm Sahiba Joshi</h1>
 <h3 align="center">Building Modern, Scalable & Impact-Driven Web Applications</h3>
 
 <!-- <p align="center">
