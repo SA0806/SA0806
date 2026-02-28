@@ -56,14 +56,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SA0806&show_icons=true&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SA0806&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SA0806&theme=dark&hide_border=true" />
 </p>
-</p>
+
 
 ---
 
